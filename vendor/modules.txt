@@ -229,8 +229,6 @@ github.com/gosuri/uitable/util/wordwrap
 # github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79
 ## explicit
 github.com/gregjones/httpcache
-# github.com/grpc-ecosystem/grpc-gateway/v2 v2.28.0
-## explicit; go 1.24.0
 # github.com/hashicorp/errwrap v1.1.0
 ## explicit
 github.com/hashicorp/errwrap
@@ -451,7 +449,9 @@ github.com/yosida95/uritemplate/v3
 gitlab.com/gitlab-org/api/client-go
 # go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.67.0
 ## explicit; go 1.25.0
-# go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.40.0
+# go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.42.0
+## explicit; go 1.25.0
+# go.opentelemetry.io/proto/otlp v1.10.0
 ## explicit; go 1.24.0
 # go.yaml.in/yaml/v2 v2.4.4
 ## explicit; go 1.15
@@ -530,7 +530,7 @@ golang.org/x/text/unicode/norm
 # golang.org/x/time v0.15.0
 ## explicit; go 1.25.0
 golang.org/x/time/rate
-# google.golang.org/genproto/googleapis/api v0.0.0-20260316172706-e463d84ca32d
+# google.golang.org/genproto/googleapis/api v0.0.0-20260316180232-0b37fe3546d5
 ## explicit; go 1.25.0
 google.golang.org/genproto/googleapis/api/expr/v1alpha1
 # google.golang.org/genproto/googleapis/rpc v0.0.0-20260316180232-0b37fe3546d5
