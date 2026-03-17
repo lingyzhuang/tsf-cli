@@ -13,6 +13,7 @@ import (
 
 // IntegrationTrustification is the sub-command for the "integration trustification",
 // responsible for creating and updating the Trustification integration secret.
+// It includes the coordinates to connect the cluster with remote Trustification services.
 type IntegrationTrustification struct {
 	cmd         *cobra.Command           // cobra command
 	appCtx      *api.AppContext          // application context
@@ -61,10 +62,10 @@ func NewIntegrationTrustification(
 				appCtx.Name,
 			),
 			Long: fmt.Sprintf(`
-Manages the Trustification integration with %s by storing the credentials
+Manages the Trustification integration with %s by storing the information
 required by %s services to interact with Trustification.
 
-The credentials are stored in a Kubernetes Secret in the namespace
+The information is stored in a Kubernetes Secret in the namespace
 configured for %s.`,
 				appCtx.Name,
 				appCtx.Name,
