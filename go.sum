@@ -282,8 +282,8 @@ github.com/opencontainers/image-spec v1.1.1 h1:y0fUlFfIZhPF1W537XOLg0/fcx6zcHCJw
 github.com/opencontainers/image-spec v1.1.1/go.mod h1:qpqAh3Dmcf36wStyyWU+kCeDgrGnAve2nCC8+7h8Q0M=
 github.com/openshift/api v0.0.0-20260320151444-324a1bcb9f55 h1:2h6bqs9ua3wrsQnxEbzys3/n5IohLC7Dyb/KgaVYC/A=
 github.com/openshift/api v0.0.0-20260320151444-324a1bcb9f55/go.mod h1:pyVjK0nZ4sRs4fuQVQ4rubsJdahI1PB94LnQ8sGdvxo=
-github.com/openshift/client-go v0.0.0-20260306160707-3935d929fc7d h1:T+9HFgEEcnu1TDDfsO5JcJC6N0/Kzob5AtG9IpITHJ8=
-github.com/openshift/client-go v0.0.0-20260306160707-3935d929fc7d/go.mod h1:tIA3XSb/WsC/Fg0YNRfs/JrMrloBKPGF+NKVutd7nMI=
+github.com/openshift/client-go v0.0.0-20260320040014-4b5fc2cdad98 h1:Ssuo/zELWqb7pFCwzB3QGEA4QeLW948hL2AhWq2SWjs=
+github.com/openshift/client-go v0.0.0-20260320040014-4b5fc2cdad98/go.mod h1:8O4jIKdcr5YR9FFQEeokYoCplCUN+j9hZj4u/2yg0As=
 github.com/peterbourgon/diskv v2.0.1+incompatible h1:UBdAOUP5p4RWqPBg048CAvpKN+vxiaj6gdUUzhl4XmI=
 github.com/peterbourgon/diskv v2.0.1+incompatible/go.mod h1:uqqh8zWWbv1HBMNONnaR/tNboyR3/BZd58JJSHlUSCU=
 github.com/phayes/freeport v0.0.0-20220201140144-74d24b5ae9f5 h1:Ii+DKncOVM8Cu1Hc+ETb5K+23HdAMvESYE3ZJ5b5cMI=
